@@ -13,31 +13,29 @@ run the file "geldrausssch.py".
 Deutsches LiesMich
 ------------------
 
-#### F: Welche Vorraussetzungen bestehen und wie erfülle ich sie?
+**F: Welche Vorraussetzungen bestehen und wie erfülle ich sie?**
+**A: Python3 muss installiert sein:**
 
-#### A: Python3 muss installiert sein:
++ Ubuntu Linux: Terminal öffnen > sudo apt-get install python3
++ Linux (andere): Python3 über Paketverwaltung oder aus Quellen installieren
++ Windows/Mac: Python3 von www.python.org herunterladen und installieren
 
-	+ Ubuntu Linux: Terminal öffnen > sudo apt-get install python3
-        + Linux (andere): Python3 über Paketverwaltung oder aus Quellen installieren
-        + Windows/Mac: Python3 von www.python.org herunterladen und installieren
+**F: Wie starte ich das Spiel?**
+**A: Es gibt 2 Möglichkeiten das Spiel zu starten (hier Ubuntu Linux):**
 
-#### F: Wie starte ich das Spiel?
++ Im Terminal starten:
+    + Terminal öffnen
+    + in Spielverzeichnis wechseln:
+    + z.B.: cd Spiele/GeldRauSSSch
++ Spiel starten: ./geldrausssch.py
 
-#### A: Es gibt 2 Möglichkeiten das Spiel zu starten (hier Ubuntu Linux):
++ per Doppelklick:
+    + Rechtsklick auf "geldrausssch.py" -> Rechte: Ausführbar
+    + Doppelklick auf "geldrausssch.py"
 
-	+ Im Terminal starten:
-		+ Terminal öffnen
-		+ in Spielverzeichnis wechseln:
-			+ z.B.: cd Spiele/GeldRauSSSch
-		+ Spiel starten: ./geldrausssch.py
-
-	+ per Doppelklick:
-		+ Rechtsklick auf "geldrausssch.py" -> Rechte: Ausführbar
-		+ Doppelklick auf "geldrausssch.py"
-
-	+ per Python-Konsole:
-		+ Terminal öffnen
-		+ in das Spielverzeichnis wechseln:
-			+ z.B.: cd Spiele/GeldRauSSSch
-		+ Python starten: python3
-		+ Spiel importieren: import geldrausssch
++ per Python-Konsole:
+    + Terminal öffnen
+    + in das Spielverzeichnis wechseln:
+    + z.B.: cd Spiele/GeldRauSSSch
++ Python starten: python3
++ Spiel importieren: import geldrausssch
