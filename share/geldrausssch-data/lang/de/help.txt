@@ -1,0 +1,40 @@
+<b><i>Einleitung</i></b>
+GeldRau$$$ch ist freie Software. Ein jeder kennt die unzähligen Quizshows im Fernsehen und wer ist nicht schon vom Sofa aufgesprungen, weil er die Antwort auf eine schwierige Frage wusste? Mit GeldRau$$$ch können Sie ihr Allgemeinwissen auf Herz und Nieren testen und das Beste ist: Sie können selbst Fragen hinzufügen, so dass sie im nächsten Spiel zur Verfügung stehen.
+
+In den nächsten Abschnitten erhalten Sie Hilfe zum Spiel. Sie können aber auch einfach loslegen. Das Spiel lässt sich einfach bedienen. Sollten sie Probleme haben können Sie jederzeit die Hilfe aufrufen oder eine eMail an den Entwickler (georg.eckert@gmx.de) schreiben.
+
+<b><i>Spielen</i></b>
+Bei dem Spiel "GeldRau$$$ch" geht es darum allein mit Hilfe des Allgemeinwissens 15 Fragen zu beantworten um 1 Milliarde virtuelle Taler zu gewinnen. Die Fragen werden mit steigendem Level immer schwieriger.
+
+Um ein neues Spiel zu starten geben Sie einfach einen Namen in das Feld <i>"Spielername"</i> ein und klicken danach auf den Knopf <i>"Spiel starten"</i>. Anschließend werden sie aufgefordert die gestellte Frage zu beantworten. Klicken Sie hierzu einfach auf den Knopf vor der richtigen Antwort und anschließend auf den Knopf mit der Aufschrift <i>"nächste Frage"</i>.
+
+Sollte eine Frage zu schwer für Sie sein, dann haben Sie in jedem Spiel 3 Zauberkarten zur Verfügung. Sie erkennen die Zauberkarten an den Regenbogenfarben. Achten Sie darauf, dass je Frage nur eine Zauberkarte verwendet werden kann:
+    <i>50 | 50</i> entfernt 2 falsche Antworten
+    <i>33 | 66</i> entfernt 1 falsche Antwort
+    <i>Neue Frage</i> startet den aktuellen Level mit anderer Frage neu
+
+Wenn Sie eine Frage falsch beantworten ist das Spiel zu Ende. Ihre erreichte Punktzahl wird in die Rangliste eingetragen und das Spiel kehrt in den Startbildschirm zurück.
+
+<b><i>Spielinhalt hinzufügen</i></b>
+Wenn Sie Ideen für neue lustige und knifflige Fragen haben, dann klicken sie auf den Knopf <i>"Erweitern"</i>. Dort können Sie dann neue Fragen und Antworten zum Spiel hinzufügen. Füllen Sie dazu einfach die angegebenen Felder aus. Wenn nicht alle Felder korrekt ausgefüllt sind schlägt das Erweitern des Spiels fehl. Achten Sie also darauf die Felder nach folgendem Beispiel auszufüllen:
+
+<i>Frage:</i>       Welches dieser Zeichentricknagetiere hat eine rote Hose mit gelben Knöpfen?
+<i>Antwort1:</i>    Feivel der Mauswanderer
+<i>Antwort2:</i>    Micky Maus
+<i>Antwort3:</i>    Bernhard
+<i>Antwort4:</i>    Chip
+<i>Korrekt:</i>     2
+<i>Level:</i>       1
+<i>Sprache:</i>     de
+
+Zur internen Speicherung wird die Frage in folgendem Format abgespeichert:
+
+Welches dieser Zeichentricknagetiere hat eine rote Hose mit gelben Knöpfen?;Feivel der Mauswanderer;Micky Maus;Bernhard;Chip;2
+
+Sollte die angezeigte Zeichenkette nicht dieses Format haben, so brechen Sie den Erweiterungsdialog ab und überprüfen Sie noch einmal alle Angaben.
+
+<b><i>Mitmachen</i></b>
+Neue Fragen und Verbesserungsvorschläge können an die folgende Adresse gesandt werden: eckert.georg@gmx.de
+
+<b><i>Lizenz</i></b>
+GeldRau$$$ch ist freie Software und der Quellcode ist frei einsehbar verfügbar. GeldRau$$$ch wird unter der GPL Version 3.0 veröffentlicht.

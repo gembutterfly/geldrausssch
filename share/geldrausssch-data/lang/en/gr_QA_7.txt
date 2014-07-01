@@ -1,0 +1,5 @@
+In welchem dieser Länder wird nicht auf der linken Straßenseite gefahren?;Japan;Australien;Canada;Indien;3
+Welchem Problem der Geometrie widmet sich der "Satz des Pythagoras"?;Fläche des Kreises;Volumen des Quaders;Winkel im Trapez;Seiten des rechtwinkligen Dreiecks;4
+Die bekannte Gleichung "E=m*c²" beschreibt Albert Einsteins;Weltenformel;Materiegesetz;Spezielle Relativitätstheorie;Grundgesetz der Thermodynamik;3
+Im Gegensatz zum Erbmaterial der Frau besteht das 23. Chromosomenpaar beim Mann aus den Chromosomen:;X Z;X X;X Y;X V;3
+Welches dieser elektrischen Leuchtmittel hat den höchsten Wirkungsgrad?;Glühbirne;LED;Osram;Quecksilberdampflampe;2

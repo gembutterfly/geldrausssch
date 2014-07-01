@@ -1,0 +1,24 @@
+---------------------------------
+|  Game Manual -- GoldRau$$$ch  |
+---------------------------------
+
+In the Game "GeldRau$$$ch, (german
+for money fever), you have to answer
+up to 15 questions to win 1Billion 
+virtual Talers.
+All that you need and are
+allowed to use is your general
+knowledge. With increasing level the
+questions become more and more
+difficult. To play the game you need
+a keyboard. Have Fun!
+
+If you have questions or bugs to
+report, or if you want to help me,
+translating the game into more
+languages, please do not hesitate
+to write me an e-mail:
+eckert.georg@gmx.de
+
+GoldRau$$$ch is free and open source
+software.

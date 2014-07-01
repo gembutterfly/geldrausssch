@@ -1,0 +1,7 @@
+Development of GeldRau$$$ch:
+
+To-Do:
+
++ implement get_rnd_txtfile_line in beehivelib.py
++ split into more files
++ explanation of correct answer
